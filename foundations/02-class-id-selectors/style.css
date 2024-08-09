@@ -1,0 +1,20 @@
+/* style,css */
+
+.odd{
+    background-color:#FFAAAA;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#two-even{
+    color: #0000FF;
+    font-size: 36px;
+}
+
+.adjust-font-size{
+    font-size: 24px;
+}
+
+#four-even{
+    background-color: #8eeb8b;
+    font-weight: bold;
+}
